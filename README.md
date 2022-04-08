@@ -6,11 +6,11 @@ I'm Temesgen Ayneka, a 30-year old technical enthusiast who does web development
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/temesgen-ayneka) [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/TemesgenA)
 
 
+
+<h3> 👨🏻‍💻 &nbsp;About Me </h3>
+
 - 🌱 I’m currently learning ReactJS and Ruby on Rails
-- 👯 I’m looking to collaborate on [CensorLabel](https://github.com/AkhilGKrishnan/CensorLabel)
-- 😄 Pronouns: He
-
-
+- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 
 ![Akhil's github stats](https://github-readme-stats.vercel.app/api?username=TemesgenA&show_icons=true&theme=dark)
 
