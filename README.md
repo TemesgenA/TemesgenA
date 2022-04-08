@@ -10,6 +10,6 @@ I'm Temesgen Ayneka, a 30-year old technical enthusiast who does web development
 - 🌱 I’m currently learning ReactJS and Ruby on Rails
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 
-![Akhil's github stats](https://github-readme-stats.vercel.app/api?username=TemesgenA&show_icons=true&theme=dark)
+![Temesgen's github stats](https://github-readme-stats.vercel.app/api?username=TemesgenA&show_icons=true&theme=dark)
 
 ⭐️ From [TemesgenA](https://github.com/TemesgenA)
