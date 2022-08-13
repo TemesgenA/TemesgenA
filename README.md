@@ -3,7 +3,6 @@ I'm Temesgen Ayneka, a 30-year old technical enthusiast who does web development
 ## 📫 How to reach me: 
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/temesgen-ayneka) [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/TemesgenA)
 
-
 ### 🧐 More About Me:
 
 - 🔭 &nbsp; I’m currently working on **youtube-audio-player**
@@ -13,7 +12,7 @@ I'm Temesgen Ayneka, a 30-year old technical enthusiast who does web development
 - 📚 &nbsp; When I am free, I read selected books from several catagories.
 - 🤔 &nbsp; Exploring new technologies and open to new opportunities!
 <br>
-<br>
+
 ### 🔨 Languages, Frameworks and Tools:
 
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img align="left" alt="JavaScript" height ="42px"  src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/javascript/javascript.svg"> </a>
