@@ -13,7 +13,7 @@ I'm Temesgen Ayneka, a 30-year old technical enthusiast who does web development
 ![Temesgen's github stats](https://github-readme-stats.vercel.app/api?username=TemesgenA&show_icons=true&theme=dark)
 ![Temesgen's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=TemesgenA&theme=dark&layout=compact)
 
-<h2 align="left" id="macropower-tech">Favorite Tech</h2>
+<!-- <h2 align="left" id="macropower-tech">Favorite Tech</h2>
 
 > Tools, languages, and other things that I like to work with.
 
@@ -58,4 +58,4 @@ I'm Temesgen Ayneka, a 30-year old technical enthusiast who does web development
   </tr>
     </td>
   </tr>
-</table>
+</table> -->
