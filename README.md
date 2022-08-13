@@ -1,7 +1,7 @@
 # Hi there 👋 I'm [Temesgen!](https://github.com/TemesgenA)
-#### I'm Full Stack software developer, security enthusiast and Passionate to contribute to open-source projects.
-<br>
-## 📫 How to reach me: 
+#### I'm Full Stack software developer, security enthusiast and Passionate to contribute to open-source projects.<br>
+
+### 📫 How to reach me: 
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/temesgen-ayneka) [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/TemesgenA)
 
 ### 🧐 More About Me:
