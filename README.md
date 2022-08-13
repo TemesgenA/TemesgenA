@@ -5,7 +5,6 @@
 
 ### 🧐 More About Me:
 
-- 🔭 &nbsp; I’m currently working on **youtube-audio-player**
 - 🌱 &nbsp; I’m currently learning ReactJS and Ruby on Rails.
 - 💬 &nbsp; Ask me about anything tech related, I am happy to help;
 - 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/temesgen-ayneka//)
