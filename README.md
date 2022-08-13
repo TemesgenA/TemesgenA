@@ -12,7 +12,6 @@ I'm Temesgen Ayneka, a 30-year old technical enthusiast who does web development
 - 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/temesgen-ayneka//)
 - 📚 &nbsp; When I am free, I read selected books from several catagories.
 - 🤔 &nbsp; Exploring new technologies and open to new opportunities!
-
 <br>
 <br>
 ### 🔨 Languages, Frameworks and Tools:
