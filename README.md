@@ -4,11 +4,15 @@ I'm Temesgen Ayneka, a 30-year old technical enthusiast who does web development
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/temesgen-ayneka) [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/TemesgenA)
 
 
+### 🧐 More About Me:
 
-<h3> 👨🏻‍💻 &nbsp;About Me </h3>
+- 🔭 &nbsp; I’m currently working on **youtube-audio-player**
+- 🌱 &nbsp; I’m currently learning ReactJS and Ruby on Rails.
+- 💬 &nbsp; Ask me about anything tech related, I am happy to help;
+- 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/temesgen-ayneka//)
+- 📚 &nbsp; When I am free, I read selected books from several catagories.
+- 🤔 &nbsp; Exploring new technologies and open to new opportunities!
 
-- 🌱 I’m currently learning ReactJS and Ruby on Rails
-- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 <br>
 <br>
 ### 🔨 Languages, Frameworks and Tools:
