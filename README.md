@@ -20,6 +20,10 @@ I'm Temesgen Ayneka, a 30-year old technical enthusiast who does web development
 
 <br>
 
+<br>
+
+### 📊 Github Stats
+
 ---
 <p align = "center">
   <img src = "https://github-readme-stats.vercel.app/api?username=TemesgenA&show_icons=true&theme=bear" width = 400>
