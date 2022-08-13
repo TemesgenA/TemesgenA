@@ -9,7 +9,8 @@ I'm Temesgen Ayneka, a 30-year old technical enthusiast who does web development
 
 - 🌱 I’m currently learning ReactJS and Ruby on Rails
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-
+<br>
+<br>
 ### 🔨 Languages and Tools:
 
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img align="left" alt="JavaScript" height ="42px"  src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/javascript/javascript.svg"> </a>
@@ -17,13 +18,12 @@ I'm Temesgen Ayneka, a 30-year old technical enthusiast who does web development
 <a href="https://reactjs.org/" target="_blank"> <img align="left" alt="React" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/react/react.svg"></a>
 <a href="https://nodejs.org" target="_blank"><img align="left" alt="Node.js" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/node/node.svg"></a>
 <a href="https://git-scm.com/" target="_blank"> <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/git-scm/git-scm.svg" align="left" alt="git" height='42px'/> </a>
-
 <br>
-
+<br>
+<br>
 <br>
 
 ### 📊 Github Stats
-
 ---
 <p align = "center">
   <img src = "https://github-readme-stats.vercel.app/api?username=TemesgenA&show_icons=true&theme=bear" width = 400>
