@@ -14,9 +14,8 @@ I'm Temesgen Ayneka, a 30-year old technical enthusiast who does web development
 <p align = "center">
   <img src = "https://github-readme-stats.vercel.app/api?username=TemesgenA&show_icons=true&theme=bear" width = 400>
   <img src = "https://github-readme-streak-stats.herokuapp.com?user=TemesgenA&theme=dark&hide_border=true" width = 400>
+  ![Temesgen's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=TemesgenA&theme=dark&layout=compact)
 </p>
-
-![Temesgen's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=TemesgenA&theme=dark&layout=compact)
 
 <!-- <h2 align="left" id="macropower-tech">Favorite Tech</h2>
 
