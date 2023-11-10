@@ -23,7 +23,7 @@
 <a href="https://nodejs.org" target="_blank"><img align="left" alt="Node.js" height ="42px" src="./img/nodejs-original-wordmark.svg"></a>
 <a href="https://git-scm.com/" target="_blank"> <img src="./img/git-scm.svg" align="left" alt="git" height='42px'/> </a>
 <a href="https://www.djangoproject.com/" target="_blank"> <img src="./img/django-logo-negative.svg" align="left" alt="git" height='42px'/> </a>
-<a href="https://developer.android.com/" target="_blank"> <img src="./img/git-scm.svg" align="left" alt="git" height='42px'/> </a>
+<a href="https://developer.android.com/" target="_blank"> <img src="./img/Android-Logomark.svg" align="left" alt="git" height='42px'/> </a>
 <a href="https://kotlinlang.org/" target="_blank"> <img src="./img/kotlin-2.svg" align="left" alt="git" height='42px'/> </a>
 
 <br>
