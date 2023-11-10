@@ -1,17 +1,17 @@
 # Hi there 👋 I'm [Temesgen!](https://github.com/TemesgenA)
-#### I'm a Full Stack software developer, security enthusiast, and passionate to contribute on open-source projects.<br>
+#### I'm a Web and Mobile App Developer, security enthusiast, and passionate to contribute on open-source projects.<br>
 
 ### 📫 How to reach me: [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/temesgen-ayneka) [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/TemesgenA)
 
 ### 🧐 More About Me:
 
-- 🌱 &nbsp; I’m currently learning ReactJS and Ruby on Rails.
-- 💬 &nbsp; Ask me about anything tech related, I am happy to help.
+- 🌱 &nbsp; I’m currently mastering ReactJS, Django, and Kotlin.
+- 💬 &nbsp; Ask me about anything tech-related, I am happy to help.
 - 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/temesgen-ayneka//).
-- 📚 &nbsp; When I am free, I read selected books from several catagories.
+- 📚 &nbsp; When I am free, I read selected books from several categories.
 - 🤔 &nbsp; Exploring new technologies and open to new opportunities!<br>
 
-### 🔨 Languages, Frameworks and Tools:
+### 🔨 Languages, Frameworks, and Tools:
 
 <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5/" target="_blank"> <img src="./img/html5-original-wordmark.svg" align="left" alt="git" height='42px'/> </a>
 <a href="https://sass-lang.com/" target="_blank"> <img src="./img/sass-original.svg" align="left" alt="git" height='42px'/> </a>
@@ -22,6 +22,10 @@
 <a href="https://www.python.org/" target="_blank"> <img src="./img/python-original.svg" align="left" alt="git" height='42px'/> </a>
 <a href="https://nodejs.org" target="_blank"><img align="left" alt="Node.js" height ="42px" src="./img/nodejs-original-wordmark.svg"></a>
 <a href="https://git-scm.com/" target="_blank"> <img src="./img/git-scm.svg" align="left" alt="git" height='42px'/> </a>
+<a href="https://www.djangoproject.com/" target="_blank"> <img src="./img/django-logo-negative.svg" align="left" alt="git" height='42px'/> </a>
+<a href="https://developer.android.com/" target="_blank"> <img src="./img/git-scm.svg" align="left" alt="git" height='42px'/> </a>
+<a href="https://kotlinlang.org/" target="_blank"> <img src="./img/kotlin-2.svg" align="left" alt="git" height='42px'/> </a>
+
 <br>
 <br>
 
