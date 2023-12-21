@@ -27,11 +27,4 @@
 <a href="https://kotlinlang.org/" target="_blank"> <img src="./img/kotlin-2.svg" align="left" alt="git" height='42px'/> </a>
 
 <br>
-<br>
 
-### 📊 Github Stats
----
-<p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=TemesgenA&show_icons=true&theme=bear" width = 400>
-  <img src = "https://github-readme-streak-stats.herokuapp.com?user=TemesgenA&theme=dark&hide_border=true" width = 400>
-</p>
