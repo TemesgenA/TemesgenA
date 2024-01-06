@@ -23,7 +23,7 @@
 <a href="https://git-scm.com/" target="_blank"> <img src="./img/git-scm.svg" align="left" alt="git" height='42px'/> </a>
 <a href="https://www.python.org/" target="_blank"> <img src="./img/python-original.svg" align="left" alt="git" height='42px'/> </a>
 <a href="https://www.djangoproject.com/" target="_blank"> <img src="./img/django-logo-negative.svg" align="left" alt="git" height='42px'/> </a>
-<a href="https://developer.android.com/" target="_blank"> <img src="./img/Android-Logomark.svg" align="left" alt="git" height='42px'/> </a>
+<a href="https://flutter.dev/" target="_blank"> <img src="./img/Flutter.svg" align="left" alt="Flutter" height='42px'/> </a>
 <a href="https://kotlinlang.org/" target="_blank"> <img src="./img/kotlin-2.svg" align="left" alt="git" height='42px'/> </a>
 
 <br>
