@@ -1,7 +1,7 @@
 # Hi there 👋 I'm [Temesgen!](https://github.com/TemesgenA)
 #### I'm a Web and Mobile App Developer, security enthusiast, and passionate to contribute on open-source projects.<br>
 
-### 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/temesgen-ayneka) [GitHub](https://github.com/TemesgenA)
+### 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/temesgen-ayneka)
 
 ### 🧐 More About Me:
 
