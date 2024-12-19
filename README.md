@@ -1,5 +1,5 @@
 # Hi there 👋 I'm [Temesgen!](https://github.com/TemesgenA)
-#### I'm a Web and Mobile App Developer, security enthusiast, and passionate to contribute on open-source projects.<br>
+#### I'm a Web and Mobile App Developer, and passionate to contribute on open-source projects.<br>
 
 ### 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/temesgen-ayneka)
 
@@ -18,7 +18,6 @@
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img align="left" alt="JavaScript" height ="42px"  src="./img/javascript.svg"> </a>
 <a href="https://www.typescriptlang.org/" target="_blank"><img align="left" alt="Typescirpt" height ="42px" src="./img/typescript.svg"></a>
 <a href="https://reactjs.org/" target="_blank"> <img align="left" alt="React" height ="42px" src="./img/react.svg"></a>
-[//]: # (<a href="https://www.ruby-lang.org/en/" target="_blank"> <img src="./img/ruby-original.svg" align="left" alt="Ruby" height='42px'/> </a>)
 <a href="https://nodejs.org" target="_blank"><img align="left" alt="Node.js" height ="42px" src="./img/nodejs-original-wordmark.svg"></a>
 <a href="https://git-scm.com/" target="_blank"> <img src="./img/git-scm.svg" align="left" alt="git" height='42px'/> </a>
 <a href="https://www.python.org/" target="_blank"> <img src="./img/python-original.svg" align="left" alt="Python" height='42px'/> </a>
